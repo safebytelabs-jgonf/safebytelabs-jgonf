@@ -8,7 +8,7 @@
 - :house: I live in the North of Spain.
 - :snake: I like Python...
 - :crab: ...and Rust...
-- 👀 ... yes and also have interest in cryptography, microservices and EDA, just to name a few
+- 👀 ... yes and also have interest in cryptography, microservices and EDA, just to name a few things. 
 - :office: I'm the CEO and Lead Architect at [SAFE BYTE LABS](https://safebytelabs.com); I'm ex-[AWS](https://aws.amazon.com/).
 - :wink: I collaborate with _**Open Source**_ projects.
 - :radio: I collaborate with _**Ham Radio**_ community.
