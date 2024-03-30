@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @safebytelabs-jgonf
-- 👀 I’m interested in cryptography
-- 🌱 I’m currently learning about business
-- 💞️ I’m looking to collaborate on software projects
+- 👀 I’m interested in cryptography, microservices, EDA, python and rust
+- 🌱 I’m currently learning about business, among other things
+- 💞️ I’m always interested in collaborating on software projects
 - 📫 In my details :)
 
 <!---
