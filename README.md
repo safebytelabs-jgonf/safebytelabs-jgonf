@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @safebytelabs-jgonf
-- 👀 I’m interested in cryptography, microservices, EDA, python and rust
-- 🌱 I’m currently learning about business, among other things
-- 💞️ I’m always interested in collaborating on software projects
-- 📫 In my details :)
+### Hi there :wave:
+<!--
+**ea1het/ea1het** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ea1het&show_icons=true">
+//-->
+
+- :sunglasses: I'm Jonathan, aka @safebytelabs-jgonf
+- :house: I live in the North of Spain.
+- :snake: I like Python...
+- :crab: ...and Rust...
+- 👀 ... yes and also have interest in cryptography, microservices and EDA, just to name a few
+- :office: I'm the CEO and Lead Architect at [SAFE BYTE LABS](https://safebytelabs.com); I'm ex-[AWS](https://aws.amazon.com/).
+- :wink: I collaborate with _**Open Source**_ projects.
+- :radio: I collaborate with _**Ham Radio**_ community.
+- :speech_balloon: Ask me about cybersecurity, microservices, IoT, Ham Radio & SDR and I'll try to help you.
+- :mailbox: How to reach me: jgonf@safebytelabs.com 
+- :sparkles: Fun fact: Check out my **YouTube Channel** https://youtube.com/@safebytelabs
 
 <!---
 safebytelabs-jgonf/safebytelabs-jgonf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
