@@ -9,7 +9,7 @@
 - :snake: I like Python...
 - :crab: ...and Rust...
 - 👀 ... yes and also have interest in cryptography, microservices and EDA, just to name a few things. 
-- :office: I'm the CEO and Lead Architect at [SAFE BYTE LABS](https://safebytelabs.com); I'm ex-[AWS](https://aws.amazon.com/).
+- :office: I'm the CEO and Lead Architect at [SAFE BYTE LABS](https://safebytelabs.com); by the way, I'm ex-[AWS](https://aws.amazon.com/), so you know my cloud of choice.
 - :wink: I collaborate with _**Open Source**_ projects.
 - :radio: I collaborate with _**Ham Radio**_ community.
 - :speech_balloon: Ask me about cybersecurity, microservices, IoT, Ham Radio & SDR and I'll try to help you.
