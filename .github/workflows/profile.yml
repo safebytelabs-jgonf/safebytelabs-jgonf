@@ -12,7 +12,7 @@ on:
 
 jobs:
   github-metrics:
-    runs-on: ["self-hosted", "m92p"]
+    runs-on: ["ubuntu-latest"]
     environment: ci_cd_pipeline
 
     steps:
