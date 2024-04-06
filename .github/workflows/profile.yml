@@ -16,7 +16,7 @@ jobs:
     environment: ci_cd_pipeline
 
     steps:
-      - uses: lowlighter/metrics@v3.9
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.CI_GH_PAT }}
 
