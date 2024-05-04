@@ -12,7 +12,7 @@
 - :office: I'm the CEO and Lead Architect at [SAFE BYTE LABS](https://safebytelabs.com); by the way, I'm ex-[AWS](https://aws.amazon.com/), so you know my cloud of choice.
 - :wink: I collaborate with _**Open Source**_ projects.
 - :radio: I collaborate with _**Ham Radio**_ community.
-- :speech_balloon: Ask me about cybersecurity, microservices, IoT, Ham Radio & SDR and I'll try to help you.
+- :speech_balloon: Ask me about cybersecurity, microservices, EDA, IoT, Ham Radio & SDR and I'll try to help you.
 - :mailbox: How to reach me: jgonf@safebytelabs.com 
 - :sparkles: Fun fact: Check out my **YouTube Channel** https://youtube.com/@safebytelabs
 
